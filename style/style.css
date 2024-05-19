@@ -114,7 +114,6 @@ header nav .nav-links a.active {
 /* Home */
 
 .hero {
-  position: relative;
   padding-top: 80px;
   background: none;
   min-height: 100vh;
@@ -256,7 +255,6 @@ h1 b {
   align-items: center;
   background-color: #f7e2e282;
   padding: 30px;
-
   border-radius: 10px;
 }
 

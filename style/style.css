@@ -605,6 +605,7 @@ div .btn1 {
 }
 /*--------footer--------*/
 .footer {
+  background-color: #f7e2e2;
   width: 100%;
   text-align: center;
   padding: 30px 0;
@@ -721,4 +722,10 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: #f7e2e2;
+}
+
+.location {
+  justify-content: center;
+  display: flex;
+  margin-bottom: 5rem;
 }
